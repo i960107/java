@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÿ‚şÿÿÿÿ
+n
+java:S3008"SRename this field "TAX_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£èËøÿÿÿÿ
+{
+java:S3008"`Rename this field "HEALTH_INSURANCE_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïğ‹ìúÿÿÿÿ
+{
+java:S3008"`Rename this field "NATIONAL_PENSION_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô§Ø”ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş•è®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éëò«ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åßû’ûÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‚ä‚‘
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(ÜÄ™g8„Ë­¼á1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(‘Ô¶Œúÿÿÿÿ8…Ë­¼á1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ô·ê8…Ë­¼á1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(‰ì±Àùÿÿÿÿ8…Ë­¼á1
