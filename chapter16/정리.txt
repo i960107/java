@@ -1,0 +1,11 @@
+1. Nested 클래스에 속하는 3가지 클래스에는 어떤 것들이 있나요? static nested class, inner class, anonymous class
+2. Nested 클래스를 컴파일하면 Nested클래스 파일의 이름은 어떻게 되나요? OuterClass$NestedClass.class
+3. Static Nested 클래스는 다른 Nested 클래스와 어떤 차이가 있나요?
+    outer객체를 생성하지 않고 객체를 생성할 수 있고 outer 클래스의 static 변수에만 접근이 가능하다.
+4. StaticNested 클래스의 객체 생성은 어떻게 하나요? new OuterClass.InnerClass();
+5. 일반적인 내부 클래스의 객체 생성은 어떻게 하나요? outerClass.new InnerClass();
+6. Nested클래스를 만드는 이유는 무엇인가요?
+- 겉으로 비슷해보이지만 논리적으로 관련있는 클래스를 한 파일에서 관리하기 위해서.
+- Outer클래스의 private 변수를 사용하고 싶지만 겉에서 숨기기 위해서
+7. Nested클래스에서 감싸고 있는 클래스의 private로 선언된 변수에 접근할 수 있나요? 있음
+8. 감싸고 있는 클래스에서 Nested클래스에 private으로 선언된 변수에 접근할 수 있나요? 있음.
