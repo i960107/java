@@ -2,6 +2,8 @@ package chapter21;
 
 public class Container<T> {
     private T[] data;
+    private static String name;
+    private static String age;
 
     public Container() {
         data = (T[]) (new Object[1]);
